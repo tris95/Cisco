@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Cisco</string>
+    <string name="nim">NIM</string>
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="email">Email</string>
+    <string name="prodi">Prodi</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="iduser">NIM</string>
+    <string name="signin">Sign In</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="signup">SIGN UP</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="text_ok">OK</string>
+    <string name="text_cancel">Cancel</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="text_ask_permission_camera">Harap mengaktifkan izin kamera dan penyimpanan</string>
+    <string name="text_ask_permission_storege">Harap mengaktifkan izin penyimpanan</string>
+    <string name="uri_image_user">/cisco/user/</string>
+    <string name="uri_image_bukti">/cisco/bukti/</string>
+    <string name="daftarkelas">Daftar Kelas</string>
+    <string name="jadwal">Jadwal</string>
+    <string name="uploadbukti">Upload Bukti Bayar</string>
+    <string name="logout">Log Out</string>
+    <string name="daftarkeals">Daftar Kelas</string>
+    <string name="upload">Upload</string>
+    <string name="fileupload">File Upload</string>
+    <string name="fileuploadgambar">Upload Gambar</string>
+    <string name="namainstruktur">Nama Instruktur</string>
+    <string name="kelas">Nama Kelas</string>
+    <string name="kirim">Kirim</string>
+    <string name="waktu">Waktu</string>
+    <string name="proses">Proses</string>
+    <string name="no_internet">No Internet</string>
+    <string name="no_file">No File</string>
+
+</resources>
